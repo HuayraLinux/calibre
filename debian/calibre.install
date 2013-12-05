@@ -1,0 +1,3 @@
+calibre /usr/share
+debian/local/*.desktop usr/share/applications
+debian/local/calibre.png /usr/share/pixmaps
